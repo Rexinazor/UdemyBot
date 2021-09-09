@@ -1,6 +1,3 @@
-# UdemyBot - A Simple Udemy Free Courses Scrapper
-
-# Copyright (C) 2021-Present Gautam Kumar <https://github.com/gautamajay52>
 
 import os
 
@@ -9,7 +6,7 @@ api_id = os.environ.get('API_ID')
 api_hash = os.environ.get('API_HASH')
 
 START = """
-Hey, I'm an UdemyBot. ⚡
+Hey, I'm an UdemyBot. 
 
 I can send you free Udemy Courses Links.
 
