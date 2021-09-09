@@ -1,7 +1,3 @@
-# UdemyBot - A Simple Udemy Free Courses Scrapper
-
-# Copyright (C) 2021-Present Gautam Kumar <https://github.com/gautamajay52>
-
 from telethon import events
 
 from udemy import CMD, START
